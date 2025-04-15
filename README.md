@@ -102,3 +102,8 @@ We can fix that too.
 --- 
 
 Let me know if you want to include a *payload* that changes the system sound to a scream every time Edge opens.
+
+---
+
+Developed with much anguish by [@ivanbg_2004](https://github.com/ivanbg2004) and forced to be remastered by [Oblivion Development & Hosting](https://odh.ivan-vcard.xyz) 6 years later.
+Oblivion Development & Hosting is a Linux-first company, but we reluctantly support other platforms.
